@@ -12,6 +12,7 @@ Competition page:https://www.aicrowd.com/challenges/final-project-of-the-data-mi
 ## Authors
 
 * **Etra Almadani** 
+* **Natalia Varela**
 
 
 
