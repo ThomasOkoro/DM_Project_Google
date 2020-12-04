@@ -20,7 +20,7 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 ## Project structure
 
 
-**1. Load and visualize (EDA)
+**1. Load and visualize (EDA)**
 
 - Import and describe database, visualize distribution of features.
 
