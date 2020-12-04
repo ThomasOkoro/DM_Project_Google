@@ -13,11 +13,35 @@ Competition page:https://www.aicrowd.com/challenges/final-project-of-the-data-mi
 
 * **Etra Almadani** 
 * **Natalia Varela**
+* **Thomas Okoro**
 
 
+## Project structure
 
 
+1. Load and visualize (EDA)
 
+Import and describe database, visualize distribution of features.
+
+2. Base rate of database 
+
+Compute the Base rate of Target.
+
+3. Data cleanineg and improvement of our model Train the model on the original dataset without any modification (basic model)
+
+Text preprocessing, text cleaning and improvisation.
+
+4. Training of our logistic model and prediction on test data
+
+Training and definition of our Classifier and its accuracy. Test data prediction.
+
+5. Development of our model
+
+kNN method and decision trees.
+
+6. Results presentation
+
+## Results 
 
 ## Acknowledgments
 
