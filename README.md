@@ -44,9 +44,10 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 ## Results 🥇
 
-During the first weeks we abotained our first accuracy for our model classifier. 
+During the first weeks we obtained our first accuracy for our model classifier.
+
 Our base rate = 0.57
-Our accuracy = 0.81
+Our accuracy = 0.809
 
 
 ## Acknowledgments
