@@ -28,7 +28,7 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 - Compute the Base rate of Target.
 
-3. Data cleanineg and improvement of our model Train the model on the original dataset without any modification (basic model)
+3. Data cleanineg and improvement of our model
 
 - Text preprocessing, text cleaning and improvisation.
 
