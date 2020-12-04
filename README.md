@@ -42,6 +42,8 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 **6. Results presentation**
 
+- Todo video 
+
 ## Results 🥇
 
 During the first weeks we obtained our first accuracy for our model classifier.
