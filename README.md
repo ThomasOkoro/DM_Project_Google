@@ -20,29 +20,32 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 ## Project structure
 
 
-1. Load and visualize (EDA)
+**1. Load and visualize (EDA)
 
 - Import and describe database, visualize distribution of features.
 
-2. Base rate of database 
+**2. Base rate of database 
 
 - Compute the Base rate of Target.
 
-3. Data cleanineg and improvement of our model
+**3. Data cleaning and improvement of our model
 
 - Text preprocessing, text cleaning and improvisation.
 
-4. Training of our logistic model and prediction on test data
+**4. Training of our logistic model and prediction on test data
 
 - Training and definition of our Classifier and its accuracy. Test data prediction.
 
-5. Development of our model
+**5. Development of our model
 
 - kNN method and decision trees.
 
-6. Results presentation
+**6. Results presentation
 
 ## Results 
+
+During the first weeks we abotained our first accuracy for our model classifier. 
+
 
 ## Acknowledgments
 
