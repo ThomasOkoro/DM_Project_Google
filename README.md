@@ -44,6 +44,11 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 - Todo video 
 
+## Week improvement
+
+During the first week we cleaned the data and made logistic regression
+
+
 ## Results 🥇
 
 During the first weeks we obtained our first accuracy for our model classifier.
