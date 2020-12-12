@@ -81,7 +81,7 @@ Readme.md update
 More Data visualization
 Classifier comparison and improvement
 
-Final notebook preparation with more data cleaning and other logistic regressions for comparision
+Final notebook preparation with more data cleaning and other Logistic regressions for comparision
 
 **Week 5**
 
