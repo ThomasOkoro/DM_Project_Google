@@ -51,7 +51,7 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 Colab code file creation
 Data upload and data cleaning
 
-Tasks delivery and repartition iwthin the group
+Tasks delivery and repartition within the group
 
 **Week 2**
 
