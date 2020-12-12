@@ -48,31 +48,33 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 **Week 1**
 
-Colab code file creation
+Colabcodefile creation
+
 Data upload and data cleaning
 
 Tasks delivery and repartition within the group
 
 **Week 2**
 
-Github connection to our colabfile
+Github connection to our colabcodefile
 
 Readme.md creation
 
 Data visualization 
 
-Text analysis and cleaning: remove stopwords, lemmatize, punctuation
+Text analysis and cleaning: remove stopwords, lemmatize, punctuation, tokenization
 Logistic regression prediction
 
 **Week 3**
 
 Readme.md update
 
+TF-IDF
+
 Exploratory data analysis, improvement of data cleaning and classifier prediction
 
-Classifier comparison: Logistic regression with Cross validation, Random Forest, Decision Tree, Gradient Boosting Classifier
+Classifier comparison: Logistic regression with Cross validation
 
-Decision tree and kNN Classifiacation
 
 **Week 4**
 
@@ -80,6 +82,10 @@ Readme.md update
 
 More Data visualization
 Classifier comparison and improvement
+
+N-grams configuration, maximate the accuracy
+
+kNN Classifiacation, Random Forest, Decision Tree, Word2Vec
 
 Final notebook preparation with more data cleaning and other Logistic regressions for comparision
 
