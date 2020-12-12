@@ -96,8 +96,6 @@ Video and presentation
 
 ## Results 🥇
 
-During the first weeks we obtained our first accuracy for our model classifier.
-
 After our first submission:
 
 Our base rate = 0.57
