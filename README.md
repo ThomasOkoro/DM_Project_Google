@@ -1,4 +1,4 @@
-# DM_Project_Google 🕵️
+# Team Google 🕵️
 
 Real or Not? NLP with Disaster Tweets: 
 
@@ -10,7 +10,7 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 
 
-## Authors
+## Group members
 
 * **Etra Almadani** 
 * **Natalia Varela**
