@@ -71,7 +71,7 @@ Exploratory data analysis, improvement of data cleaning and classifier predictio
 
 Classifier comparison: Logistic regression with Cross validation, Random Forest, Decision Tree, Gradient Boosting Classifier
 
-Decision tree and kNN
+Decision tree and kNN Classifiacation
 
 **Week 4**
 
