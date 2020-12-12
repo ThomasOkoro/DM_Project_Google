@@ -60,6 +60,7 @@ Github connection to our colabfile
 Readme.md creation
 
 Data visualization 
+
 Text analysis and cleaning: remove stopwords, lemmatize, punctuation
 Logistic regression prediction
 
