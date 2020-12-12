@@ -46,14 +46,14 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 ## Week improvement
 
-**Week 1
+**Week 1**
 
 Colab code file creation
 Data upload and data cleaning
 
 Tasks delivery and repartition iwthin the group
 
-**Week 2
+**Week 2**
 
 Github connection to our colabfile
 
@@ -63,7 +63,7 @@ Data visualization
 Text analysis and cleaning: remove stopwords, lemmatize, punctuation
 Logistic regression prediction
 
-**Week 3
+**Week 3**
 
 Readme.md update
 
@@ -73,7 +73,7 @@ Classifier comparison: Logistic regression with Cross validation, Random Forest,
 
 Decision tree and kNN
 
-**Week 4
+**Week 4**
 
 Readme.md update
 
@@ -82,7 +82,7 @@ Classifier comparison and improvement
 
 Final notebook preparation with more data cleaning and other logistic regressions for comparision
 
-**Week 5 (Final week)
+**Week 5**
 
 Video and presentation
 
