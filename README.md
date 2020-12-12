@@ -22,23 +22,23 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 **1. Load and visualize (EDA)**
 
-- Import and describe database, visualize distribution of features.
+- Import and describe database, visualize distribution of features
 
 **2. Base rate of database**
 
-- Compute the Base rate of Target.
+- Compute the Base rate of Target
 
 **3. Data cleaning and improvement of our model**
 
-- Text preprocessing, text cleaning and improvisation.
+- Text preprocessing, text cleaning and improvisation
 
 **4. Training of our logistic model and prediction on test data**
 
-- Training and definition of our Classifier and its accuracy. Test data prediction.
+- Training and definition of our Classifier and its accuracy. Test data prediction
 
 **5. Development of our model**
 
-- kNN method and decision trees.
+- kNN method and decision trees
 
 **6. Results presentation**
 
@@ -46,7 +46,45 @@ The project topic is based around a Kaggle competition. Competition page:https:/
 
 ## Week improvement
 
-During the first week we cleaned the data and made logistic regression
+**Week 1
+
+Colab code file creation
+Data upload and data cleaning
+
+Tasks delivery and repartition iwthin the group
+
+**Week 2
+
+Github connection to our colabfile
+
+Readme.md creation
+
+Data visualization 
+Text analysis and cleaning: remove stopwords, lemmatize, punctuation
+Logistic regression prediction
+
+**Week 3
+
+Readme.md update
+
+Exploratory data analysis, improvement of data cleaning and classifier prediction
+
+Classifier comparison: Logistic regression with Cross validation, Random Forest, Decision Tree, Gradient Boosting Classifier
+
+Decision tree and kNN
+
+**Week 4
+
+Readme.md update
+
+More Data visualization
+Classifier comparison and improvement
+
+Final notebook preparation with more data cleaning and other logistic regressions for comparision
+
+**Week 5 (Final week)
+
+Video and presentation
 
 
 ## Results 🥇
