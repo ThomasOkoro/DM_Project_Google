@@ -42,7 +42,7 @@ The project topic is based around a Kaggle competition. Competition page: https:
 
    **6. Results presentation**
 
-    presentation video
+    presentation + video
 
 ## Week improvement
 
