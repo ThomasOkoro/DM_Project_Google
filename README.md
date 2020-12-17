@@ -93,6 +93,8 @@ Final notebook preparation with more data cleaning and other Logistic regression
 
 Video and presentation
 
+Our presentation can be find in documents file and the here is the link to our file https://youtu.be/FZYg8CTwJiY
+
 
 ## Results 🥇
 
