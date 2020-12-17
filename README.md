@@ -7,6 +7,8 @@ Our data consists of a dataset of 6,471 tweets that are already classified (0 = 
 
 The project topic is based around a Kaggle competition. Competition page: https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course/leaderboards
 
+The link to our youtube presentation is the following : https://www.youtube.com/watch?v=FZYg8CTwJiY
+
 
 
 
@@ -107,3 +109,4 @@ Our accuracy = 0.809
 
 ## Acknowledgments
 
+please see the slide
